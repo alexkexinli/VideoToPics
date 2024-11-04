@@ -13,3 +13,9 @@ pip install -r requirements.txt
 
 python extract_frames.py
 脚本将自动处理 D:\video\ 文件夹下的所有 MP4 文件，并将处理后的图像按照相同的目录结构存储在 D:\image\ 中。
+
+输入视频集合目录结构：
+![img.png](img.png)
+
+输出图片目录结构：
+![img_1.png](img_1.png)
